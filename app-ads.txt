@@ -1,4 +1,3 @@
-facebook.com, 187380475617020, DIRECT, c3e20eee3f780d68
 152media.info, 152M1093, RESELLER
 152media.info, 152M1134, RESELLER
 152media.info, 152M1165, RESELLER
@@ -859,6 +858,7 @@ exchange.loyal.app, AJxF6R76a9M6CaTvK, RESELLER
 eyeconicspot.com, 4994, DIRECT
 facebook.com, 1458550544253058, DIRECT, c3e20eee3f780d68
 facebook.com, 1628327730754812, DIRECT, c3e20eee3f780d68
+facebook.com, 187380475617020, DIRECT, c3e20eee3f780d68
 facebook.com, 1953763124938106, DIRECT, c3e20eee3f780d68
 facebook.com, 402494555675672, DIRECT, c3e20eee3f780d68
 fasttvltd.com, e689c0c2, RESELLER
